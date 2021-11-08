@@ -6,7 +6,7 @@
   "author": "BaekGeunYoung",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.9.6",
+    "apollo-server": "^2.25.3",
     "babel-node": "^0.0.1-security",
     "graphql": "^14.5.8",
     "graphql-yoga": "^1.18.3",
